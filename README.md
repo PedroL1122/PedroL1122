@@ -3,7 +3,7 @@
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/bangue062?hr_r=1)
 [![hackerrank](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/bangue062/)
 ![PedroCunegundes GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroL1122&show_icons=true&theme=radical)
-### Tecnologias que uso no meu dia
+### Tecnologias que uso no meu dia:
 <div style="display: inline_block"><br/>
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
