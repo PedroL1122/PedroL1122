@@ -1,8 +1,6 @@
-#Bem-vindo ao meu perfil do GitHub!
+# Bem-vindo ao meu perfil do GitHub!
 
-Olá! Meu nome é [Seu Nome] e estou em transição de carreira para a área de desenvolvimento de software. Com 6 meses de experiência como estoquista no Fujioka Distribuidor e atualmente cursando o 3º semestre de Análise e Desenvolvimento de Sistemas, estou determinado a me tornar um desenvolvedor de software.
-
-[![Youtube](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrocunegundes_/)
+Olá! Meu nome é Pedro Henrique Cunegundes e estou em transição de carreira para a área de programação. Com 7 meses de experiência como estoquista no Fujioka Distribuidor e atualmente cursando o 3º semestre de Análise e Desenvolvimento de Sistemas,estou comprometido com o aprendizado e o desenvolvimento contínuo na área de programação.
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/bangue062?hr_r=1)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Pedro_Cunegundes/)
 ![PedroCunegundes GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroL1122&show_icons=true&theme=radical)
