@@ -1,4 +1,7 @@
-### Olá! Eu sou o Pedro Cunegundes,tenho 19 anos e estudo análise e desenvolvimento de sistemas
+#Bem-vindo ao meu perfil do GitHub!
+
+Olá! Meu nome é [Seu Nome] e estou em transição de carreira para a área de desenvolvimento de software. Com 6 meses de experiência como estoquista no Fujioka Distribuidor e atualmente cursando o 3º semestre de Análise e Desenvolvimento de Sistemas, estou determinado a me tornar um desenvolvedor de software.
+
 [![Youtube](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrocunegundes_/)
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/bangue062?hr_r=1)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Pedro_Cunegundes/)
